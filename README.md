@@ -1,4 +1,3 @@
-Author: Saiteja Sirikonda
 COurse: Natural Language Processing
 
 Tools used : Python (Keras, Tensorflow, Gensim, NLTK, Pandas, Numpy, scikit-learn, re, json)
